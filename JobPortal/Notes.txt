@@ -1,0 +1,2 @@
+Note:- If this error occurs :- Could not find file '..\bin\roslyn\csc.exe'. after publishing to server(github) use this
+- Update-Package Microsoft.CodeDom.Providers.DotNetCompilerPlatform -r
